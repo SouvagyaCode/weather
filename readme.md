@@ -27,8 +27,12 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/weather-project.git
 
+
+    ```
+    ```bash
     cd weather
     ```
+
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
