@@ -119,9 +119,6 @@ def get_weather():
         elif icon_num in thunder:
             pic_url = pic_icons[6]
 
-
-
-        # Starting of GET_DAILY request
         url = "https://ai-weather-by-meteosource.p.rapidapi.com/daily"
         querystring = {"lat": latitude, "lon": longitude, "language": "en", "units": "auto"}
         response = requests.get(url, headers=headers, params=querystring)
