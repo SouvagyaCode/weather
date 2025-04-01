@@ -29,6 +29,7 @@ Ensure you have the following installed:
 
 
     ```
+2. Navigate to the project directory:
     ```bash
     cd weather
     ```
