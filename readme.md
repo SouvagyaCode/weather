@@ -7,7 +7,7 @@ This project provides weather updates for various locations.
 ## Screenshots
 
 ### Weather Details
-![Weather Details](./images/homepage.png)
+![Weather Details](images/homepage.png)
 
 
 ## How to Run
