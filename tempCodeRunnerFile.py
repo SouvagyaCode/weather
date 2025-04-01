@@ -1,1 +1,0 @@
-"/static/icons/animated/not_available.jpeg"
