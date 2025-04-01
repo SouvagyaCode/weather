@@ -26,3 +26,25 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/yourusername/weather-project.git
+
+    cd weather-project
+    ```
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Set up your environment variables. Create a `.env` file in the root directory and add your API key:
+   ```bash
+   API_KEY=your_api_key_here
+   ```
+
+### Running the Project
+1. Start the application:
+   ```bash
+   python app.py
+   ```
+2. Open your web browser and navigate to `http://localhost:5000`.
+3. Enter a location in the search bar to get the weather updates.
+4. Click on the "Search" button to fetch the weather data.
+5. The weather details will be displayed on the page.
