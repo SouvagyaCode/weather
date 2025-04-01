@@ -6,7 +6,7 @@ This project provides weather updates for various locations, giving users curren
 ## Screenshots
 
 ### Weather Details
-![screenshot](./images/homepage.png)
+
 
 ## Features
 - Real-time weather updates.
