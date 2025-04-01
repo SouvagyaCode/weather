@@ -27,7 +27,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/weather-project.git
 
-    cd weather-project
+    cd weather
     ```
 2. Install the required packages:
    ```bash
